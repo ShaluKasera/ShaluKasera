@@ -4,7 +4,7 @@
 
 ## 💻 Tech Stack & Skills
 
-- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript  
+- **Frontend:** HTML, CSS, ReactJs, Tailwind CSS, JavaScript  
 - **Backend:** Node.js, Express.js  
 - **Databases:** MongoDB, MySQL  
 - **Programming Languages:** C, C++, JavaScript  
@@ -13,16 +13,13 @@
   - Object-Oriented Programming (OOP)  
   - Problem Solving  
 
-## 🌱 Currently Learning
-- Advanced backend concepts and system design
-- Full-stack project architecture
 
 ## 🚀 Goals
 - Build real-world full-stack applications
 - Contribute to open-source projects
 - Crack technical interviews with strong DSA and system design knowledge
-
+  
 ## 📫 Let's Connect
 Feel free to reach out for collaboration, networking, or just a good tech chat!
-
+## 🤝 Open to: Remote internships, freelance projects, or collaborations
 ---
