@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Shalu Kasera]
+# 👋 Hi, I'm Shalu Kasera
 
 🎓 I’m a pre-final year B.Tech Computer Science student with a strong passion for **Web Development** and building impactful digital experiences.
 
